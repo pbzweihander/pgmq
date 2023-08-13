@@ -1,5 +1,5 @@
 [package]
-name = "pgmq"
+name = "pgmq-extra"
 version = "0.11.2"
 edition = "2021"
 authors = ["Tembo.io"]
